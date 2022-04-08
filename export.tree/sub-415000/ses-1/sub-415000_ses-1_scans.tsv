@@ -1,0 +1,5 @@
+filename	acq_time
+anat/sub-415000_ses-1_acq-TSE_run-1_T1w.nii.gz	1925-01-01T18:11:00
+anat/sub-415000_ses-1_acq-TSE_run-2_T1w.nii.gz	1925-01-01T18:19:36
+func/sub-415000_ses-1_task-rest_run-1_bold.nii.gz	1925-01-01T18:21:10
+anat/sub-415000_ses-1_acq-TSE_run-3_T1w.nii.gz	1925-01-01T18:27:57
